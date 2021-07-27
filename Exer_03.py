@@ -11,7 +11,7 @@ print('A soma do número {:.1f} e {:.1f} é igual: {}'.format(num01,num02,soma))
 # linha 3 criei a variavel (num01) que vai receber (armazenar) o valor digitado pelo usuario,
 # usei o float para números não inteiros.
 # linha 4 criei a variavel (num02) que vai receber (armazenar) o segundo valor digitado pelo usuario,
-# # usei o float para números não inteiros.
+# # usei o float para números não inteiros..
 # linha 5 criei uma variavel (soma) que vai somar os valores da variavel num01 e num02.
 # linha 6 criei um print para imprimir na tela num01 e num02 mais a soma dos seus valores.
 # {} usei as chaves para referir as variaveis que tinha criado anteriormente, usei o .format para especificar
