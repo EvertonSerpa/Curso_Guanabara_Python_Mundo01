@@ -14,4 +14,4 @@ foi criada três variaveis,
 largura recebe o valor digitado pelo usuario.
 altura recebe o valor digitado pelo usuario.
 area calcula a largura * altura.
-tinta pega o valor da area e divide por 2'''
+tinta pega o valor da area e divide por 2'''''
