@@ -3,7 +3,7 @@
 import math
 
 print()
-# import math # importei a bibiloteca math (biblioteca completa)
+# import math # importei a bibiloteca math (biblioteca completa).
 from math import radians, sin, cos, tan
 angulo = float(input('Digite o valor de um ângulo qualquer: ')) # variavel que recebe o angulo
 seno = sin(radians(angulo)) # variavel 2 que converte o seno para radiando
